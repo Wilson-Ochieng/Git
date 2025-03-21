@@ -1,2 +1,5 @@
-logs
-.env
+Test.html
+Test2.html
+/logs/*.html
+testfolder
+testfolder2
